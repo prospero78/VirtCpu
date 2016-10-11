@@ -55,4 +55,10 @@ EX --
 FX -- 
 
 *)
+interface
+
+uses Группа0;
+
+implementation
+
 end.
