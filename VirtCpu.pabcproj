@@ -3,6 +3,7 @@
   <Items>
     <Item Type="SourceFile" Name="VirtCpu.pas" Path="VirtCpu.pas" />
     <Item Type="SourceFile" Name="Рон.pas" Path="Рон.pas" />
+    <Item Type="SourceFile" Name="Группа0.pas" Path="Группа0.pas" />
     <Item Type="Reference" AssemblyName="System" FullAssemblyName="System.dll" />
   </Items>
 </Project>
